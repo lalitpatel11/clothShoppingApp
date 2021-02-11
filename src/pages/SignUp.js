@@ -7,8 +7,8 @@ const SignUp = ({navigation}) => {
     return (
         <View style={styles.myView}>
             <View style={styles.LogoStyle}>
-            <Entypo name="camera" size={100} color="white" />
-            <Text style={styles.title}>ClickPic</Text>
+            <Entypo name="shopping-bag" size={100} color="white" />
+            <Text style={styles.title}>Shopping</Text>
             </View>
             <TextInput style={styles.TextInput}
                 placeholder="Name"
